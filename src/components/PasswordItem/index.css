@@ -1,0 +1,73 @@
+.green {
+  background-color: green;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.red {
+  background-color: red;
+}
+
+.black {
+  background-color: black;
+}
+
+.grey {
+  background-color: grey;
+}
+
+.pink {
+  background-color: pink;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.violet {
+  background-color: violet;
+}
+
+.password-list-item {
+  list-style-type: none;
+  padding: 6px 15px;
+  border: 1px solid white;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  margin: 10px;
+}
+
+.delete-button {
+  background-color: transparent;
+  border: 0px;
+}
+
+.delete-icon {
+  height: 20px;
+}
+
+.profile-icon {
+  padding: 6px 11px;
+  border-radius: 20px;
+}
+
+.description-card {
+  margin-left: 10px;
+  margin-right: 20px;
+}
+
+.description {
+  padding: 0px;
+  margin: 5px;
+  font-size: 12px;
+}
+
+.stars-img {
+  height: 10px;
+  width: 70px;
+}
